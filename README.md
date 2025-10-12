@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is George and I'm a third-year Informatics and Telecommunications student from Arta, Greece. I'm passionate about software development and algorithms, and I enjoy learning through hands-on projects.</h3>
+<h3 align="left">Hi 👋! My name is George and I'm a fourth-year Informatics and Telecommunications student from Arta, Greece. I'm passionate about software development and algorithms, and I enjoy learning through hands-on projects.</h3>
 
 ###
 

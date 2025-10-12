@@ -1,4 +1,10 @@
-<h3 align="left">Hi 👋! My name is George and I'm a fourth-year Informatics and Telecommunications student from Arta, Greece. I'm passionate about software development and algorithms, and I enjoy learning through hands-on projects.</h3>
+<h3 align="left">Georgios Tzanopoulos
+
+
+Informatics and Telecommunications student at DIT UOI.
+
+
+I am passionate about crafting robust software solutions using C++ and Python. My interests span Data Engineering, Web Development with a focus on AI/LLM applications, and complex Scheduling algorithms. I leverage Docker for streamlined development workflows and apply Machine Learning techniques to various problems.</h3>
 
 ###
 

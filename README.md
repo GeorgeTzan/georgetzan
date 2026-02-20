@@ -58,7 +58,3 @@ I am passionate about crafting robust software solutions using **C++** and **Pyt
 <div align="center">
   <img src="https://raw.githubusercontent.com/georgetzan/georgetzan/output/snake.svg" alt="Snake animation" />
 </div>
-
-<div align="center">
- <img height="150" src="https://i.imgflip.com/9t6qr9.gif" />
-</div>

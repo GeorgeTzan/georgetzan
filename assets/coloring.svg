@@ -1,0 +1,24 @@
+<svg fill="none" width="460" height="310" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Fira Code', Monaco, Consolas, monospace; font-size: 13px; color: #c0caf5; background: transparent; line-height: 1.5;">
+      <span style="color: #50fa7b; font-weight: bold;">gtzan@unisystems</span> <span style="color: #565f89;">~</span><br/>
+      <span style="color: #565f89;">---------------------------------------</span><br/>
+      <span style="color: #ff9e3b; font-weight: bold;">OS</span> ............. Fedora Linux<br/>
+      <span style="color: #ff9e3b; font-weight: bold;">Host</span> ........... Systems &amp; Backend Infrastructure<br/>
+      <!-- UPTIME:START -->
+      <span style="color: #ff9e3b; font-weight: bold;">Uptime</span> ......... 21 years, 351 days<br/>
+      <!-- UPTIME:END -->
+      <span style="color: #ff9e3b; font-weight: bold;">Role</span> ........... Software &amp; Platform Engineer<br/>
+      <span style="color: #ff9e3b; font-weight: bold;">IDE</span> ............ VS Code, nano<br/><br/>
+
+      <span style="color: #ff9e3b; font-weight: bold;">Languages.Prog</span> . C++, Python, C, TypeScript, Dart<br/>
+      <span style="color: #ff9e3b; font-weight: bold;">Tech.Stack</span> ..... Docker, Next.js, Flutter, Linux, Git<br/>
+      <span style="color: #ff9e3b; font-weight: bold;">Focus</span> .......... Systems Programming, Data Engineering,<br/>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Optimization<br/><br/>
+
+      <span style="color: #ff9e3b; font-weight: bold;">Hobbies.Music</span> .. Grunge / Punk<br/>
+      <span style="color: #ff9e3b; font-weight: bold;">Hobbies.Life</span> ... Skating &amp; Gaming<br/>
+      <span style="color: #ff9e3b; font-weight: bold;">Hobbies.Dev</span> .... Open Source &amp; Low-Level Infrastructure
+    </div>
+  </foreignObject>
+</svg>

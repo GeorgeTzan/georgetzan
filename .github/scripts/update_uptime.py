@@ -2,12 +2,14 @@ import re
 from datetime import datetime
 
 BIRTHDAY = datetime(2004, 8, 8) 
-
 now = datetime.now()
-diff = now - BIRTHDAY
 
-years = diff.days // 365
-remaining_days = diff.days % 365
+years = now.year - BIRTHDAY.year
+if (now.month, now.day) < (BIRTHDAY.month, BIRTHDAY.day):
+    years -= 1
+
+last_birthday = datetime(now.year if (now.month, now.day) >= (BIRTHDAY.month, BIRTHDAY.day) else now.year - 1, BIRTHDAY.month, BIRTHDAY.day)
+remaining_days = (now - last_birthday).days
 
 uptime_str = f'<span style="color: #ff9e3b; font-weight: bold;">Uptime</span> ......... {years} years, {remaining_days} days<br/>'
 

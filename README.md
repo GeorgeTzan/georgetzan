@@ -1,60 +1,40 @@
-<div align="center">
-  <h1>Georgios Tzanopoulos</h1>
-  <h3>Informatics and Telecommunications Student @ DIT UOI</h3>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/georgetzan">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-    </a>
-    <a href="mailto:gtzan@orailab.gr">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-    </a>
-    <a href="https://instagram.com/george.tz">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-    </a>
-    <a href="https://twitch.tv/mrsdva">
-      <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
-    </a>
-  </p>
-</div>
+<table border="0">
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <br />
+      <img src="assets/me.png" alt="ASCII Portrait" width="100%">
+    </td>
+    <td width="60%" valign="top">
+<pre>
+<b>gtzan@unisystems</b> ~ 
+---------------------------------------
+<b>OS</b> ............. Fedora Linux
+<b>Host</b> ........... Systems & Backend Infrastructure
+<b>Role</b> ........... Software & Platform Engineer
+<b>IDE</b> ............ VS Code, nano
 
-<br />
+<b>Languages.Prog</b> . C++, Python, C, TypeScript, Dart
+<b>Tech.Stack</b> ..... Docker, Next.js, Flutter, Linux, Git
+<b>Focus</b> .......... Systems Programming, Data Engineering, Optimization
 
-### 👨‍💻 About Me
+<b>Hobbies.Music</b> .. Grunge / Punk
+<b>Hobbies.Life</b> ... Skating & Gaming
+<b>Hobbies.Dev</b> .... Open Source & Low-Level Infrastructure
 
-I am passionate about crafting robust software solutions using **C++** and **Python**. My interests span **Data Engineering**, **Web-app Development**, and complex **Scheduling algorithms**.
-
-* 🔭 I leverage **Docker** for streamlined development workflows.
-* 🧠 I apply **Machine Learning** techniques to solve real-world problems.
-* 🎓 Currently studying at DIT UOI.
+<b>Contact</b>
+<a href="https://linkedin.com/in/georgetzan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/georgetzan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a> <a href="mailto:gtzan@orailab.gr"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</pre>
+</pre>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack
+### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-</div>
-
-<br />
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=georgetzan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=georgetzan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/georgetzan/georgetzan/output/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=georgetzan&show_icons=true&theme=dracula&hide_border=true&title_color=00FFFF&text_color=FFFFFF" alt="GitHub Stats" height="150" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=georgetzan&layout=compact&theme=dracula&hide_border=true&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" height="150" />
+</p>
